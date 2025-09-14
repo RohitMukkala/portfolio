@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Mukkala
         </h1>
-        <h2>AI Engineer</h2>
+        <h2>Web Developer/Data Science</h2>
         <span>
           <a href="https://x.com/MRohit264/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
@@ -53,8 +53,11 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          AI Engineer crafting ethical and impactful solutions with machine
-          learning and automation.
+          Passionate about building intelligent systems that bridge data,
+          design, and decision-making. I thrive at the intersection of AI/ML and
+          web development — crafting real-world solutions that are as impactful
+          as they are innovative. Always eager to learn, experiment, and push
+          boundaries through hands-on projects.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
